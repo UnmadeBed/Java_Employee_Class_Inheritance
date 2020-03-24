@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6fe3a5c2-2778-4e6d-a3ec-fcf527987fcf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZXUBRsWXCvX2j3FfLkLqc6zbdP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunManager" selected="JUnit.All in Employees">
+    <configuration name="All in Employees" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Employees" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManagerTest.CanRaiseSalary" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Employees" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ManagerTest" />
+      <option name="METHOD_NAME" value="CanRaiseSalary" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in Employees" />
+        <item itemvalue="JUnit.ManagerTest.CanRaiseSalary" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6fe3a5c2-2778-4e6d-a3ec-fcf527987fcf" name="Default Changelist" comment="" />
+      <created>1584984796259</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584984796259</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1614" y="100" width="1294" height="1492" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1585008556438">
+      <screen x="0" y="0" width="3008" height="1692" />
+    </state>
+    <state x="1614" y="100" width="1294" height="1492" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.3008.1692/-1680.324.1680.1050@0.0.3008.1692" timestamp="1585008556438" />
+    <state x="2074" y="537" key="#com.intellij.ide.util.MemberChooser" timestamp="1585005190477">
+      <screen x="0" y="0" width="3008" height="1692" />
+    </state>
+    <state x="2074" y="537" key="#com.intellij.ide.util.MemberChooser/0.0.3008.1692/-1680.324.1680.1050@0.0.3008.1692" timestamp="1585005190477" />
+    <state width="1452" height="506" key="GridCell.Tab.0.bottom" timestamp="1585008977628">
+      <screen x="0" y="0" width="3008" height="1692" />
+    </state>
+    <state width="1452" height="506" key="GridCell.Tab.0.bottom/0.0.3008.1692/-1680.324.1680.1050@0.0.3008.1692" timestamp="1585008977628" />
+    <state width="1452" height="506" key="GridCell.Tab.0.center" timestamp="1585008977625">
+      <screen x="0" y="0" width="3008" height="1692" />
+    </state>
+    <state width="1452" height="506" key="GridCell.Tab.0.center/0.0.3008.1692/-1680.324.1680.1050@0.0.3008.1692" timestamp="1585008977625" />
+    <state width="1452" height="506" key="GridCell.Tab.0.left" timestamp="1585008977623">
+      <screen x="0" y="0" width="3008" height="1692" />
+    </state>
+    <state width="1452" height="506" key="GridCell.Tab.0.left/0.0.3008.1692/-1680.324.1680.1050@0.0.3008.1692" timestamp="1585008977623" />
+    <state width="1452" height="506" key="GridCell.Tab.0.right" timestamp="1585008977626">
+      <screen x="0" y="0" width="3008" height="1692" />
+    </state>
+    <state width="1452" height="506" key="GridCell.Tab.0.right/0.0.3008.1692/-1680.324.1680.1050@0.0.3008.1692" timestamp="1585008977626" />
+    <state width="1452" height="620" key="GridCell.Tab.1.bottom" timestamp="1585007333659">
+      <screen x="0" y="0" width="3008" height="1692" />
+    </state>
+    <state width="1452" height="620" key="GridCell.Tab.1.bottom/0.0.3008.1692/-1680.324.1680.1050@0.0.3008.1692" timestamp="1585007333659" />
+    <state width="1452" height="620" key="GridCell.Tab.1.center" timestamp="1585007333657">
+      <screen x="0" y="0" width="3008" height="1692" />
+    </state>
+    <state width="1452" height="620" key="GridCell.Tab.1.center/0.0.3008.1692/-1680.324.1680.1050@0.0.3008.1692" timestamp="1585007333657" />
+    <state width="1452" height="620" key="GridCell.Tab.1.left" timestamp="1585007333655">
+      <screen x="0" y="0" width="3008" height="1692" />
+    </state>
+    <state width="1452" height="620" key="GridCell.Tab.1.left/0.0.3008.1692/-1680.324.1680.1050@0.0.3008.1692" timestamp="1585007333655" />
+    <state width="1452" height="620" key="GridCell.Tab.1.right" timestamp="1585007333658">
+      <screen x="0" y="0" width="3008" height="1692" />
+    </state>
+    <state width="1452" height="620" key="GridCell.Tab.1.right/0.0.3008.1692/-1680.324.1680.1050@0.0.3008.1692" timestamp="1585007333658" />
+    <state x="517" y="357" key="com.intellij.ide.util.TipDialog" timestamp="1584984800552">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="517" y="357" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1584984800552" />
+  </component>
+</project>
